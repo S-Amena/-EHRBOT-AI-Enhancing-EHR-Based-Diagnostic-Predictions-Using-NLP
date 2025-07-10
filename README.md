@@ -104,7 +104,8 @@ HF_TOKEN=your_huggingface_token
 <section>
   <h2>📊 Architecture</h2>
   <pre>
-![image](https://github.com/user-attachments/assets/58b15ea8-e53c-4bd5-a44b-fa04458b6f03)
+![image](https://github.com/user-attachments/assets/c7ed797d-77e4-4a78-83d0-154d8b6f0b25)
+
   </pre>
 </section>
 
