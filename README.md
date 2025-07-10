@@ -25,61 +25,17 @@ Uses Supabase for email/password login and user session management.
 
 🖼️ Screenshots
 
-
-🛠️ Technologies Used
-Layer	Technology
-Frontend	Streamlit
-LLM	Groq (LLaMA 3.1 8B)
-Embeddings	Hugging Face (E5-large-v2)
-Vector DB	Qdrant
-Authentication & Storage	Supabase
-Web Search	Tavily API
-
-🔐 Environment Setup
-Create a .env file in the root directory:
-
-GROQ_API_KEY=your_groq_api_key
-TAVILY_API_KEY=your_tavily_api_key
-QDRANT_URL=your_qdrant_url
-QDRANT_API_KEY=your_qdrant_api_key
-SUPABASE_URL=your_supabase_url
-SUPABASE_KEY=your_supabase_key
-HF_TOKEN=your_huggingface_token
-
-▶️ Run the App
-streamlit run app.py
-
-💡 Usage
-👤 User Login – Sign up or log in securely.
-💬 Chat – Ask health-related questions or upload reports.
-📄 Document Upload – Get personalized answers using your uploaded PDFs.
-🔄 Multi-Chat History – Navigate through multiple chat sessions and retrieve past interactions.
-
-🔧 Core Functionality
-🔍 Retrieval-Augmented Generation (RAG)
-The chatbot uses:
-Context from uploaded documents
-Web search results
-Chat memory (from Qdrant)
-… to generate high-quality, relevant responses.
-
-🛡️ Authentication
-Password policy enforcement
-Session state managed securely with Supabase
-
-📚 Vector Search
-Embeddings stored in Qdrant
-Semantic search for contextual accuracy
-
+ After sign this is UI Interface using Streamlit ![image](https://github.com/user-attachments/assets/0e7d5971-8eac-44b7-813c-d188de2a3485)
+ 
+ Interaction to Chatbot for text Based response using LLm ![image](https://github.com/user-attachments/assets/11dea327-7262-47a2-9427-920a84087a06)
+ Response by the given Query![image](https://github.com/user-attachments/assets/4ff6cc64-a0cd-4f39-968f-d0cd9ff84bc4)
 📊 Architecture
 
 ![image](https://github.com/user-attachments/assets/7935c363-2883-48b5-8d38-3954b7d65af1)
 ┘
 
-🔒 Privacy & Security
-API keys managed via .env (never exposed to frontend)
-Supabase ensures secure, hashed password storage
-User chat history is isolated per account
+
+
 
 
 
