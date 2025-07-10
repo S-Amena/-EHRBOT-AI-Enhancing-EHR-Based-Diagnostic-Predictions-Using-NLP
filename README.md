@@ -1,3 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>AI Healthcare Chatbot</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background-color: #007B8F;
+      color: white;
+      padding: 20px 40px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.2em;
+    }
+    section {
+      padding: 30px 60px;
+    }
+    h2 {
+      color: #007B8F;
+      margin-top: 40px;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    code, pre {
+      background-color: #eee;
+      padding: 5px;
+      border-radius: 4px;
+    }
+    .screenshot {
+      margin-top: 20px;
+      text-align: center;
+    }
+    .screenshot img {
+      max-width: 90%;
+      border-radius: 10px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      margin-bottom: 10px;
+    }
+    footer {
+      background-color: #007B8F;
+      color: white;
+      text-align: center;
+      padding: 10px;
+      font-size: 0.9em;
+    }
+    @media (max-width: 768px) {
+      section {
+        padding: 20px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>🤖🩺 AI Healthcare Chatbot</h1>
+  <p>Smart assistant for real-time health insights, document-based medical help, and secure AI interaction.</p>
+</header>
 <section>
   <h2>📌 Overview</h2>
   <p>
