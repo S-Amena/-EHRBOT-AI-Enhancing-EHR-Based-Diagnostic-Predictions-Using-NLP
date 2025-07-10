@@ -23,6 +23,7 @@ Stores and retrieves conversations using Qdrant’s semantic search for contextu
 🔐 Secure Authentication
 Uses Supabase for email/password login and user session management.
 
+
 🖼️ Screenshots
 
 ![image alt](https://github.com/S-Amena/Enhancing-EHR-Based-Diagnostic-Predictions-Using-NLP/blob/2bc6e541bfd50dc00563991d630c01e890d7be0c/After%20sign%20this%20is%20UI%20Interface%20using%20Streamlit.png)
@@ -33,7 +34,7 @@ After sign this is UI Interface using Streamlit
  
  Interaction to Chatbot for text Based response using LLm 
 
- ![image alt](
+ ![image alt](https://github.com/S-Amena/Enhancing-EHR-Based-Diagnostic-Predictions-Using-NLP/blob/e8d72c1b97a633ac8f800fd083ef86f2fd6242a6/Response%20by%20the%20given%20Query.png)
  
  Response by the given Query
  
