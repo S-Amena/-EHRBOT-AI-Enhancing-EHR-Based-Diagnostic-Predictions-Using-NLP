@@ -25,7 +25,7 @@ Uses Supabase for email/password login and user session management.
 
 🖼️ Screenshots
 
-![image alt](
+![image alt](https://github.com/S-Amena/Enhancing-EHR-Based-Diagnostic-Predictions-Using-NLP/blob/2bc6e541bfd50dc00563991d630c01e890d7be0c/After%20sign%20this%20is%20UI%20Interface%20using%20Streamlit.png)
 After sign this is UI Interface using Streamlit 
  
  Interaction to Chatbot for text Based response using LLm 
