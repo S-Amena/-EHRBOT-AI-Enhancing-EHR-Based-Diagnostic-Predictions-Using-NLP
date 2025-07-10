@@ -25,10 +25,14 @@ Uses Supabase for email/password login and user session management.
 
 🖼️ Screenshots
 
- After sign this is UI Interface using Streamlit ![image](https://github.com/user-attachments/assets/0e7d5971-8eac-44b7-813c-d188de2a3485)
+![image alt](
+After sign this is UI Interface using Streamlit 
  
- Interaction to Chatbot for text Based response using LLm ![image](https://github.com/user-attachments/assets/11dea327-7262-47a2-9427-920a84087a06)
- Response by the given Query![image](https://github.com/user-attachments/assets/4ff6cc64-a0cd-4f39-968f-d0cd9ff84bc4)
+ Interaction to Chatbot for text Based response using LLm 
+ 
+ Response by the given Query
+ 
+ 
 📊 Architecture
 
 ![image](https://github.com/user-attachments/assets/7935c363-2883-48b5-8d38-3954b7d65af1)
